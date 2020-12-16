@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestThreads" project="thread3r-selenium-tests" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="TestThreads" time="13.351" uniqueid="[engine:junit-vintage]/[runner:TestThreads]">
+    <testcase name="testCreateThread" classname="TestThreads" time="13.351" displayname="testCreateThread" uniqueid="[engine:junit-vintage]/[runner:TestThreads]/[test:testCreateThread(TestThreads)]"/>
+  </testsuite>
+</testrun>

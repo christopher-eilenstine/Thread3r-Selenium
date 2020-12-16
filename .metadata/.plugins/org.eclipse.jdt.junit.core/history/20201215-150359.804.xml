@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestGroups" project="thread3r-selenium-tests" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="TestGroups" time="33.949" uniqueid="[engine:junit-vintage]/[runner:TestGroups]">
+    <testcase name="testDeleteGroup" classname="TestGroups" time="10.551" displayname="testDeleteGroup" uniqueid="[engine:junit-vintage]/[runner:TestGroups]/[test:testDeleteGroup(TestGroups)]"/>
+    <testcase name="testCreateGroup" classname="TestGroups" time="11.788" displayname="testCreateGroup" uniqueid="[engine:junit-vintage]/[runner:TestGroups]/[test:testCreateGroup(TestGroups)]"/>
+    <testcase name="testCreateGroupAlreadyExists" classname="TestGroups" time="11.609" displayname="testCreateGroupAlreadyExists" uniqueid="[engine:junit-vintage]/[runner:TestGroups]/[test:testCreateGroupAlreadyExists(TestGroups)]"/>
+  </testsuite>
+</testrun>

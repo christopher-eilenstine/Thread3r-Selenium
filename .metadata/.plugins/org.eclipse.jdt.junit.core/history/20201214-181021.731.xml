@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestAuthentication" project="thread3r-selenium-tests" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="TestAuthentication" time="19.44" uniqueid="[engine:junit-vintage]/[runner:TestAuthentication]">
+    <testcase name="testLoginPage" classname="TestAuthentication" time="12.722" displayname="testLoginPage" uniqueid="[engine:junit-vintage]/[runner:TestAuthentication]/[test:testLoginPage(TestAuthentication)]"/>
+    <testcase name="testRegisterPage" classname="TestAuthentication" time="6.718" displayname="testRegisterPage" uniqueid="[engine:junit-vintage]/[runner:TestAuthentication]/[test:testRegisterPage(TestAuthentication)]"/>
+  </testsuite>
+</testrun>

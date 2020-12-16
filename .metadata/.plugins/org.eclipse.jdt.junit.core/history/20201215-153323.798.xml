@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestThreads" project="thread3r-selenium-tests" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="TestThreads" time="38.562" uniqueid="[engine:junit-vintage]/[runner:TestThreads]">
+    <testcase name="testCreateThread" classname="TestThreads" time="13.999" displayname="testCreateThread" uniqueid="[engine:junit-vintage]/[runner:TestThreads]/[test:testCreateThread(TestThreads)]"/>
+    <testcase name="testDeleteThread" classname="TestThreads" time="10.65" displayname="testDeleteThread" uniqueid="[engine:junit-vintage]/[runner:TestThreads]/[test:testDeleteThread(TestThreads)]"/>
+    <testcase name="testCreateThreadEmpty" classname="TestThreads" time="13.913" displayname="testCreateThreadEmpty" uniqueid="[engine:junit-vintage]/[runner:TestThreads]/[test:testCreateThreadEmpty(TestThreads)]"/>
+  </testsuite>
+</testrun>
