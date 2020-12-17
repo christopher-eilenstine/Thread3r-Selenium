@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestComments" project="thread3r-selenium-tests" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="TestComments" time="12.831" uniqueid="[engine:junit-vintage]/[runner:TestComments]">
+    <testcase name="testCreateComment" classname="TestComments" time="12.831" displayname="testCreateComment" uniqueid="[engine:junit-vintage]/[runner:TestComments]/[test:testCreateComment(TestComments)]"/>
+  </testsuite>
+</testrun>

@@ -52,11 +52,7 @@ public class TestAuthentication {
 	driver.findElement(By.name("password")).clear();
 	driver.findElement(By.name("password")).sendKeys("password");
 	Thread.sleep(1000);
-    driver.findElement(By.name("verifyPassword")).click();
-    driver.findElement(By.name("verifyPassword")).clear();
-    driver.findElement(By.name("verifyPassword")).sendKeys("password");
-	Thread.sleep(1000);
-	driver.findElement(By.xpath("//div[@id='root']/div/div/div/div/form/div/div[5]/button")).click();
+	driver.findElement(By.xpath("//div[@id='root']/div/div/div/div/form/div/div[4]/button")).click();
 	Thread.sleep(2000);
   }
   
@@ -74,11 +70,7 @@ public class TestAuthentication {
 	driver.findElement(By.name("password")).clear();
 	driver.findElement(By.name("password")).sendKeys("password");
 	Thread.sleep(1000);
-    driver.findElement(By.name("verifyPassword")).click();
-    driver.findElement(By.name("verifyPassword")).clear();
-    driver.findElement(By.name("verifyPassword")).sendKeys("password");
-	Thread.sleep(1000);
-	driver.findElement(By.xpath("//div[@id='root']/div/div/div/div/form/div/div[5]/button")).click();
+	driver.findElement(By.xpath("//div[@id='root']/div/div/div/div/form/div/div[4]/button")).click();
 	Thread.sleep(2000);
   }
   
@@ -97,11 +89,7 @@ public class TestAuthentication {
 	driver.findElement(By.name("password")).clear();
 	driver.findElement(By.name("password")).sendKeys("password");
 	Thread.sleep(1000);
-    driver.findElement(By.name("verifyPassword")).click();
-    driver.findElement(By.name("verifyPassword")).clear();
-    driver.findElement(By.name("verifyPassword")).sendKeys("password");
-	Thread.sleep(1000);
-	driver.findElement(By.xpath("//div[@id='root']/div/div/div/div/form/div/div[5]/button")).click();
+	driver.findElement(By.xpath("//div[@id='root']/div/div/div/div/form/div/div[4]/button")).click();
 	Thread.sleep(2000);
     driver.findElement(By.linkText("Login")).click();
     driver.findElement(By.name("username")).click();

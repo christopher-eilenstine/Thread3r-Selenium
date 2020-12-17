@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestGroups.testDeleteGroup" project="thread3r-selenium-tests" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="TestGroups" time="10.499" uniqueid="[engine:junit-vintage]/[runner:TestGroups]">
+    <testcase name="testDeleteGroup" classname="TestGroups" time="10.499" displayname="testDeleteGroup" uniqueid="[engine:junit-vintage]/[runner:TestGroups]/[test:testDeleteGroup(TestGroups)]"/>
+  </testsuite>
+</testrun>
